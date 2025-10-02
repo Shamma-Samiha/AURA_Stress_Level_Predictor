@@ -67,15 +67,7 @@ AURA_Stress-Level-Predictor/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Your Name (@yourusername)
 
 ## 🙏 Acknowledgments
 
-- Special thanks to contributors and supporters
 - Built using Streamlit and scikit-learn
